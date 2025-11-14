@@ -16,8 +16,6 @@
 It is made to be specifically Light weight and for people that have knowledge about fast flags and does not offer toggles. 
 
 [![License][badge-repo-license]][repo-license]
-[![Downloads (Total)][badge-repo-downloads-total]][repo-releases]
-
 </div>
 
 
