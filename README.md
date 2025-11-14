@@ -20,7 +20,7 @@ It is made to be specifically Light weight and for people that have knowledge ab
 
 
 <!-- Badge Definitions -->
-[badge-repo-license]:         https://img.shields.io/github/license/RealMeddsam/Froststrap?style=flat&color=37add9
+[badge-repo-license]:         https://img.shields.io/github/license/LabheshGupta/Coinstrap?style=flat&color=ffafbd 
 
 
 [repo-license]:  https://github.com/LabheshGupta/Coinstrap/blob/main/LICENSE
